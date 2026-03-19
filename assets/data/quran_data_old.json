@@ -1,0 +1,1154 @@
+{
+  "surahs": [
+    {
+      "id": 1,
+      "name": "Fatiha",
+      "verses": [
+        "Bismillahirrahmanirrahîm.",
+        "Elhamdü lillahi rabbil'alemin.",
+        "Errahmanirrahîm.",
+        "Maliki yevmid-dîn.",
+        "İyyake na'büdü ve iyyake neste'în.",
+        "İhdinas-sirâtal-müstakîm.",
+        "Sirâtallezine en'amte aleyhim ğayrilmağdûbi aleyhim ve leddâllîn."
+      ],
+      "city": "Mekke"
+    },
+    {
+      "id": 2,
+      "name": "Bakara",
+      "verses": [
+        "Elif, lâm, mîm.",
+        "Zâlike kitâbu lâ raybe fîh, hüden lil-müttekîn.",
+        "Ellezîne yü'minûne bil-ğaybi ve yûkîmûne-s-salâte ve mimmâ rizaknâhüm yünfikûn.",
+        "Vellezîne yü'minûne bimâ unzile ileyke ve mâ unzile min kablik ve bil-âhırati hüm yûkınûn.",
+        "Ulâike alâ hüden min rabbihim ve ulâike hümü'l-müflihûn."
+      ],
+      "city": "Medine"
+    }
+  ]
+}
+      "description": "İkinci sure olan Bakara, \"İnek\" anlamına gelir. En uzun sure olup 286 ayetten oluşur."
+    },
+    {
+      "id": 3,
+      "name": "Al-İmran",
+      "arabicName": "آل عمران",
+      "englishName": "Al-Imran",
+      "verseCount": 200,
+      "revelationPlace": "medine",
+      "revelationOrder": 89,
+      "description": "Üçüncü sure olan Al-İmran, \"İmran ailesi\" anlamına gelir. 200 ayetten oluşur."
+    },
+    {
+      "id": 4,
+      "name": "Nisa",
+      "arabicName": "النساء",
+      "englishName": "An-Nisa",
+      "verseCount": 176,
+      "revelationPlace": "medine",
+      "revelationOrder": 92,
+      "description": "Dördüncü sure olan Nisa, \"Kadınlar\" anlamına gelir. 176 ayetten oluşur."
+    },
+    {
+      "id": 5,
+      "name": "Maide",
+      "arabicName": "المائدة",
+      "englishName": "Al-Ma'idah",
+      "verseCount": 120,
+      "revelationPlace": "medine",
+      "revelationOrder": 112,
+      "description": "Beşinci sure olan Maide, \"Sofra\" anlamına gelir. 120 ayetten oluşur."
+    },
+    {
+      "id": 6,
+      "name": "En'am",
+      "arabicName": "الأنعام",
+      "englishName": "Al-An'am",
+      "verseCount": 165,
+      "revelationPlace": "mekke",
+      "revelationOrder": 55,
+      "description": "Altıncı sure olan En'am, \"Hayvanlar\" anlamına gelir. 165 ayetten oluşur."
+    },
+    {
+      "id": 7,
+      "name": "A'raf",
+      "arabicName": "الأعراف",
+      "englishName": "Al-A'raf",
+      "verseCount": 206,
+      "revelationPlace": "mekke",
+      "revelationOrder": 39,
+      "description": "Yedinci sure olan A'raf, \"Sınır\" veya \"Yüksek yerler\" anlamına gelir. 206 ayetten oluşur."
+    },
+    {
+      "id": 8,
+      "name": "Enfal",
+      "arabicName": "الأنفال",
+      "englishName": "Al-Anfal",
+      "verseCount": 75,
+      "revelationPlace": "medine",
+      "revelationOrder": 88,
+      "description": "Sekizinci sure olan Enfal, \"Ganimetler\" anlamına gelir. 75 ayetten oluşur."
+    },
+    {
+      "id": 9,
+      "name": "Tevbe",
+      "arabicName": "التوبة",
+      "englishName": "At-Tawbah",
+      "verseCount": 129,
+      "revelationPlace": "medine",
+      "revelationOrder": 113,
+      "description": "Dokuzuncu sure olan Tevbe, \"Tövbe\" anlamına gelir. 129 ayetten oluşur ve Bismillah ile başlamaz."
+    },
+    {
+      "id": 10,
+      "name": "Yunus",
+      "arabicName": "يونس",
+      "englishName": "Yunus",
+      "verseCount": 109,
+      "revelationPlace": "mekke",
+      "revelationOrder": 51,
+      "description": "Onuncu sure olan Yunus, Hz. Yunus peygamberin adını taşır. 109 ayetten oluşur."
+    },
+    {
+      "id": 11,
+      "name": "Hud",
+      "arabicName": "هود",
+      "englishName": "Hud",
+      "verseCount": 123,
+      "revelationPlace": "mekke",
+      "revelationOrder": 52,
+      "description": "On birinci sure olan Hud, Hz. Hud peygamberin adını taşır. 123 ayetten oluşur."
+    },
+    {
+      "id": 12,
+      "name": "Yusuf",
+      "arabicName": "يوسف",
+      "englishName": "Yusuf",
+      "verseCount": 111,
+      "revelationPlace": "mekke",
+      "revelationOrder": 53,
+      "description": "On ikinci sure olan Yusuf, Hz. Yusuf peygamberin hayatını anlatır. 111 ayetten oluşur."
+    },
+    {
+      "id": 13,
+      "name": "Ra'd",
+      "arabicName": "الرعد",
+      "englishName": "Ar-Ra'd",
+      "verseCount": 43,
+      "revelationPlace": "medine",
+      "revelationOrder": 96,
+      "description": "On üçüncü sure olan Ra'd, \"Gök gürültüsü\" anlamına gelir. 43 ayetten oluşur."
+    },
+    {
+      "id": 14,
+      "name": "İbrahim",
+      "arabicName": "إبراهيم",
+      "englishName": "Ibrahim",
+      "verseCount": 52,
+      "revelationPlace": "mekke",
+      "revelationOrder": 72,
+      "description": "On dördüncü sure olan İbrahim, Hz. İbrahim peygamberin adını taşır. 52 ayetten oluşur."
+    },
+    {
+      "id": 15,
+      "name": "Hicr",
+      "arabicName": "الحجر",
+      "englishName": "Al-Hijr",
+      "verseCount": 99,
+      "revelationPlace": "mekke",
+      "revelationOrder": 54,
+      "description": "On beşinci sure olan Hicr, \"Hicr bölgesi\" anlamına gelir. 99 ayetten oluşur."
+    },
+    {
+      "id": 16,
+      "name": "Nahl",
+      "arabicName": "النحل",
+      "englishName": "An-Nahl",
+      "verseCount": 128,
+      "revelationPlace": "mekke",
+      "revelationOrder": 70,
+      "description": "On altıncı sure olan Nahl, \"Arılar\" anlamına gelir. 128 ayetten oluşur."
+    },
+    {
+      "id": 17,
+      "name": "İsra",
+      "arabicName": "الإسراء",
+      "englishName": "Al-Isra",
+      "verseCount": 111,
+      "revelationPlace": "mekke",
+      "revelationOrder": 50,
+      "description": "On yedinci sure olan İsra, \"Gece yolculuğu\" anlamına gelir. 111 ayetten oluşur."
+    },
+    {
+      "id": 18,
+      "name": "Kehf",
+      "arabicName": "الكهف",
+      "englishName": "Al-Kahf",
+      "verseCount": 110,
+      "revelationPlace": "mekke",
+      "revelationOrder": 69,
+      "description": "On sekizinci sure olan Kehf, \"Mağara\" anlamına gelir. 110 ayetten oluşur."
+    },
+    {
+      "id": 19,
+      "name": "Maryem",
+      "arabicName": "مريم",
+      "englishName": "Maryam",
+      "verseCount": 98,
+      "revelationPlace": "mekke",
+      "revelationOrder": 44,
+      "description": "On dokuzuncu sure olan Maryem, Hz. Meryem'in adını taşır. 98 ayetten oluşur."
+    },
+    {
+      "id": 20,
+      "name": "Taha",
+      "arabicName": "طه",
+      "englishName": "Taha",
+      "verseCount": 135,
+      "revelationPlace": "mekke",
+      "revelationOrder": 45,
+      "description": "Yirminci sure olan Taha, Hz. Musa peygamberin adını taşır. 135 ayetten oluşur."
+    },
+    {
+      "id": 21,
+      "name": "Enbiya",
+      "arabicName": "الأنبياء",
+      "englishName": "Al-Anbiya",
+      "verseCount": 112,
+      "revelationPlace": "mekke",
+      "revelationOrder": 73,
+      "description": "On yedinciinci sure olan Enbiya, \"Peygamberler\" anlamına gelir. 112 ayetten oluşur."
+    },
+    {
+      "id": 22,
+      "name": "Hac",
+      "arabicName": "الحج",
+      "englishName": "Al-Hajj",
+      "verseCount": 78,
+      "revelationPlace": "medine",
+      "revelationOrder": 103,
+      "description": "Yirmi ikinci sure olan Hac, \"Hac ibadeti\" anlamına gelir. 78 ayetten oluşur."
+    },
+    {
+      "id": 23,
+      "name": "Müminun",
+      "arabicName": "المؤمنون",
+      "englishName": "Al-Mu'minun",
+      "verseCount": 118,
+      "revelationPlace": "mekke",
+      "revelationOrder": 74,
+      "description": "Yirmi üçüncü sure olan Müminun, \"Müminler\" anlamına gelir. 118 ayetten oluşur."
+    },
+    {
+      "id": 24,
+      "name": "Nur",
+      "arabicName": "النور",
+      "englishName": "An-Nur",
+      "verseCount": 64,
+      "revelationPlace": "medine",
+      "revelationOrder": 102,
+      "description": "Yirmi dördüncü sure olan Nur, \"Işık\" anlamına gelir. 64 ayetten oluşur."
+    },
+    {
+      "id": 25,
+      "name": "Furkan",
+      "arabicName": "الفرقان",
+      "englishName": "Al-Furqan",
+      "verseCount": 77,
+      "revelationPlace": "mekke",
+      "revelationOrder": 42,
+      "description": "Yirmi beşinci sure olan Furkan, \"Ayet ayırıcı\" anlamına gelir. 77 ayetten oluşur."
+    },
+    {
+      "id": 26,
+      "name": "Şuara",
+      "arabicName": "الشعراء",
+      "englishName": "Ash-Shu'ara",
+      "verseCount": 227,
+      "revelationPlace": "mekke",
+      "revelationOrder": 47,
+      "description": "Yirmi altıncı sure olan Şuara, \"Şairler\" anlamına gelir. 227 ayetten oluşur."
+    },
+    {
+      "id": 27,
+      "name": "Neml",
+      "arabicName": "النمل",
+      "englishName": "An-Naml",
+      "verseCount": 93,
+      "revelationPlace": "mekke",
+      "revelationOrder": 48,
+      "description": "Yirmi yedinci sure olan Neml, \"Karınca\" anlamına gelir. 93 ayetten oluşur."
+    },
+    {
+      "id": 28,
+      "name": "Kasas",
+      "arabicName": "القصص",
+      "englishName": "Al-Qasas",
+      "verseCount": 88,
+      "revelationPlace": "mekke",
+      "revelationOrder": 49,
+      "description": "Yirmi sekizinci sure olan Kasas, \"Hikaye\" anlamına gelir. 88 ayetten oluşur."
+    },
+    {
+      "id": 29,
+      "name": "Ankebut",
+      "arabicName": "العنكبوت",
+      "englishName": "Al-Ankabut",
+      "verseCount": 69,
+      "revelationPlace": "mekke",
+      "revelationOrder": 85,
+      "description": "Yirmi dokuzuncu sure olan Ankebut, \"Örümcek\" anlamına gelir. 69 ayetten oluşur."
+    },
+    {
+      "id": 30,
+      "name": "Rum",
+      "arabicName": "الروم",
+      "englishName": "Ar-Rum",
+      "verseCount": 60,
+      "revelationPlace": "mekke",
+      "revelationOrder": 84,
+      "description": "Otuzuncu sure olan Rum, \"Rumlar\" anlamına gelir. 60 ayetten oluşur."
+    },
+    {
+      "id": 31,
+      "name": "Lokman",
+      "arabicName": "لقمان",
+      "englishName": "Luqman",
+      "verseCount": 34,
+      "revelationPlace": "mekke",
+      "revelationOrder": 57,
+      "description": "Otuz birinci sure olan Lokman, Hz. Lokman'ın adını taşır. 34 ayetten oluşur."
+    },
+    {
+      "id": 32,
+      "name": "Secde",
+      "arabicName": "السجدة",
+      "englishName": "As-Sajdah",
+      "verseCount": 30,
+      "revelationPlace": "mekke",
+      "revelationOrder": 75,
+      "description": "Otuz ikinci sure olan Secde, \"Secde\" anlamına gelir. 30 ayetten oluşur."
+    },
+    {
+      "id": 33,
+      "name": "Ahzab",
+      "arabicName": "الأحزاب",
+      "englishName": "Al-Ahzab",
+      "verseCount": 73,
+      "revelationPlace": "medine",
+      "revelationOrder": 90,
+      "description": "Otuz üçüncü sure olan Ahzab, \"Birlikler\" anlamına gelir. 73 ayetten oluşur."
+    },
+    {
+      "id": 34,
+      "name": "Saba",
+      "arabicName": "سبأ",
+      "englishName": "Saba",
+      "verseCount": 54,
+      "revelationPlace": "mekke",
+      "revelationOrder": 58,
+      "description": "Otuz dördüncü sure olan Saba, \"Saba\" anlamına gelir. 54 ayetten oluşur."
+    },
+    {
+      "id": 35,
+      "name": "Fatır",
+      "arabicName": "فاطر",
+      "englishName": "Fatir",
+      "verseCount": 45,
+      "revelationPlace": "mekke",
+      "revelationOrder": 43,
+      "description": "Otuz beşinci sure olan Fatır, \"Açıklayıcı\" anlamına gelir. 45 ayetten oluşur."
+    },
+    {
+      "id": 36,
+      "name": "Yasin",
+      "arabicName": "يس",
+      "englishName": "Ya-Sin",
+      "verseCount": 83,
+      "revelationPlace": "mekke",
+      "revelationOrder": 41,
+      "description": "Otuz altıncı sure olan Yasin, \"Kalp\" olarak bilinir. 83 ayetten oluşur."
+    },
+    {
+      "id": 37,
+      "name": "Saffat",
+      "arabicName": "الصافات",
+      "englishName": "As-Saffat",
+      "verseCount": 182,
+      "revelationPlace": "mekke",
+      "revelationOrder": 56,
+      "description": "Otuz yedinci sure olan Saffat, \"Sıralananlar\" anlamına gelir. 182 ayetten oluşur."
+    },
+    {
+      "id": 38,
+      "name": "Sad",
+      "arabicName": "ص",
+      "englishName": "Sad",
+      "verseCount": 88,
+      "revelationPlace": "mekke",
+      "revelationOrder": 38,
+      "description": "Otuz sekizinci sure olan Sad, \"Sad harfi\" anlamına gelir. 88 ayetten oluşur."
+    },
+    {
+      "id": 39,
+      "name": "Zümer",
+      "arabicName": "الزمر",
+      "englishName": "Az-Zumar",
+      "verseCount": 75,
+      "revelationPlace": "mekke",
+      "revelationOrder": 59,
+      "description": "Otuz dokuzuncu sure olan Zümer, \"Gruplar\" anlamına gelir. 75 ayetten oluşur."
+    },
+    {
+      "id": 40,
+      "name": "Mümin",
+      "arabicName": "غافر",
+      "englishName": "Al-Mu'min",
+      "verseCount": 85,
+      "revelationPlace": "mekke",
+      "revelationOrder": 60,
+      "description": "Kırkıncı sure olan Mümin, \"Müminler\" anlamına gelir. 85 ayetten oluşur."
+    },
+    {
+      "id": 41,
+      "name": "Fussilet",
+      "arabicName": "فصلت",
+      "englishName": "Fussilat",
+      "verseCount": 54,
+      "revelationPlace": "mekke",
+      "revelationOrder": 61,
+      "description": "Kırk birinci sure olan Fussilet, \"Açıklandı\" anlamına gelir. 54 ayetten oluşur."
+    },
+    {
+      "id": 42,
+      "name": "Şura",
+      "arabicName": "الشورى",
+      "englishName": "Ash-Shura",
+      "verseCount": 53,
+      "revelationPlace": "mekke",
+      "revelationOrder": 62,
+      "description": "Kırk ikinci sure olan Şura, \"Danışma\" anlamına gelir. 53 ayetten oluşur."
+    },
+    {
+      "id": 43,
+      "name": "Zuhruf",
+      "arabicName": "الزخرف",
+      "englishName": "Az-Zukhruf",
+      "verseCount": 89,
+      "revelationPlace": "mekke",
+      "revelationOrder": 63,
+      "description": "Kırk üçüncü sure olan Zuhruf, \"Süsler\" anlamına gelir. 89 ayetten oluşur."
+    },
+    {
+      "id": 44,
+      "name": "Duhan",
+      "arabicName": "الدخان",
+      "englishName": "Ad-Dukhan",
+      "verseCount": 59,
+      "revelationPlace": "mekke",
+      "revelationOrder": 64,
+      "description": "Kırk dördüncü sure olan Duhan, \"Duman\" anlamına gelir. 59 ayetten oluşur."
+    },
+    {
+      "id": 45,
+      "name": "Casiye",
+      "arabicName": "الجاثية",
+      "englishName": "Al-Jathiyah",
+      "verseCount": 37,
+      "revelationPlace": "mekke",
+      "revelationOrder": 65,
+      "description": "Kırk beşinci sure olan Casiye, \"Diz çökenler\" anlamına gelir. 37 ayetten oluşur."
+    },
+    {
+      "id": 46,
+      "name": "Ahkaf",
+      "arabicName": "الأحقاف",
+      "englishName": "Al-Ahqaf",
+      "verseCount": 35,
+      "revelationPlace": "mekke",
+      "revelationOrder": 66,
+      "description": "Kırk altıncı sure olan Ahkaf, \"Kum tepeleri\" anlamına gelir. 35 ayetten oluşur."
+    },
+    {
+      "id": 47,
+      "name": "Muhammed",
+      "arabicName": "محمد",
+      "englishName": "Muhammad",
+      "verseCount": 38,
+      "revelationPlace": "medine",
+      "revelationOrder": 95,
+      "description": "Kırk yedinci sure olan Muhammed, Hz. Muhammed peygamberin adını taşır. 38 ayetten oluşur."
+    },
+    {
+      "id": 48,
+      "name": "Fetih",
+      "arabicName": "الفتح",
+      "englishName": "Al-Fath",
+      "verseCount": 29,
+      "revelationPlace": "medine",
+      "revelationOrder": 111,
+      "description": "Kırk sekizinci sure olan Fetih, \"Zafer\" anlamına gelir. 29 ayetten oluşur."
+    },
+    {
+      "id": 49,
+      "name": "Hucurat",
+      "arabicName": "الحجرات",
+      "englishName": "Al-Hujurat",
+      "verseCount": 18,
+      "revelationPlace": "medine",
+      "revelationOrder": 106,
+      "description": "Kırk dokuzuncu sure olan Hucurat, \"Odalar\" anlamına gelir. 18 ayetten oluşur."
+    },
+    {
+      "id": 50,
+      "name": "Kaf",
+      "arabicName": "ق",
+      "englishName": "Qaf",
+      "verseCount": 45,
+      "revelationPlace": "mekke",
+      "revelationOrder": 34,
+      "description": "Elliinci sure olan Kaf, \"Kaf harfi\" anlamına gelir. 45 ayetten oluşur."
+    },
+    {
+      "id": 51,
+      "name": "Zariyat",
+      "arabicName": "الذاريات",
+      "englishName": "Az-Zariyat",
+      "verseCount": 60,
+      "revelationPlace": "mekke",
+      "revelationOrder": 67,
+      "description": "Elli birinci sure olan Zariyat, \"Gece yıldızları\" anlamına gelir. 60 ayetten oluşur."
+    },
+    {
+      "id": 52,
+      "name": "Tur",
+      "arabicName": "الطور",
+      "englishName": "At-Tur",
+      "verseCount": 49,
+      "revelationPlace": "mekke",
+      "revelationOrder": 76,
+      "description": "Elli ikinci sure olan Tur, \"Dağ\" anlamına gelir. 49 ayetten oluşur."
+    },
+    {
+      "id": 53,
+      "name": "Necm",
+      "arabicName": "النجم",
+      "englishName": "An-Najm",
+      "verseCount": 62,
+      "revelationPlace": "mekke",
+      "revelationOrder": 23,
+      "description": "Elli üçüncü sure olan Necm, \"Yıldız\" anlamına gelir. 62 ayetten oluşur."
+    },
+    {
+      "id": 54,
+      "name": "Kamer",
+      "arabicName": "القمر",
+      "englishName": "Al-Qamar",
+      "verseCount": 55,
+      "revelationPlace": "mekke",
+      "revelationOrder": 54,
+      "description": "Elli dördüncü sure olan Kamer, \"Ay\" anlamına gelir. 55 ayetten oluşur."
+    },
+    {
+      "id": 55,
+      "name": "Rahman",
+      "arabicName": "الرحمن",
+      "englishName": "Ar-Rahman",
+      "verseCount": 78,
+      "revelationPlace": "medine",
+      "revelationOrder": 97,
+      "description": "Elli beşinci sure olan Rahman, \"Rahman\" anlamına gelir. 78 ayetten oluşur."
+    },
+    {
+      "id": 56,
+      "name": "Vakıa",
+      "arabicName": "الواقعة",
+      "englishName": "Al-Waqi'ah",
+      "verseCount": 96,
+      "revelationPlace": "mekke",
+      "revelationOrder": 46,
+      "description": "Elli altıncı sure olan Vakıa, \"Olay\" anlamına gelir. 96 ayetten oluşur."
+    },
+    {
+      "id": 57,
+      "name": "Hadid",
+      "arabicName": "الحديد",
+      "englishName": "Al-Hadid",
+      "verseCount": 29,
+      "revelationPlace": "medine",
+      "revelationOrder": 94,
+      "description": "Elli yedinci sure olan Hadid, \"Demir\" anlamına gelir. 29 ayetten oluşur."
+    },
+    {
+      "id": 58,
+      "name": "Mücadele",
+      "arabicName": "المجادلة",
+      "englishName": "Al-Mujadilah",
+      "verseCount": 22,
+      "revelationPlace": "medine",
+      "revelationOrder": 105,
+      "description": "Elli sekizinci sure olan Mücadele, \"Mücadele eden\" anlamına gelir. 22 ayetten oluşur."
+    },
+    {
+      "id": 59,
+      "name": "Haşr",
+      "arabicName": "الحشر",
+      "englishName": "Al-Hashr",
+      "verseCount": 24,
+      "revelationPlace": "medine",
+      "revelationOrder": 101,
+      "description": "Elli dokuzuncu sure olan Haşr, \"Toplanma\" anlamına gelir. 24 ayetten oluşur."
+    },
+    {
+      "id": 60,
+      "name": "Mümtahine",
+      "arabicName": "الممتحنة",
+      "englishName": "Al-Mumtahanah",
+      "verseCount": 13,
+      "revelationPlace": "medine",
+      "revelationOrder": 91,
+      "description": "Altmışinci sure olan Mümtahine, \"Sınav\" anlamına gelir. 13 ayetten oluşur."
+    },
+    {
+      "id": 61,
+      "name": "Saff",
+      "arabicName": "الصف",
+      "englishName": "As-Saff",
+      "verseCount": 14,
+      "revelationPlace": "medine",
+      "revelationOrder": 109,
+      "description": "Altmış birinci sure olan Saff, \"Sıra\" anlamına gelir. 14 ayetten oluşur."
+    },
+    {
+      "id": 62,
+      "name": "Cuma",
+      "arabicName": "الجمعة",
+      "englishName": "Al-Jumu'ah",
+      "verseCount": 11,
+      "revelationPlace": "medine",
+      "revelationOrder": 110,
+      "description": "Altmış ikinci sure olan Cuma, \"Cuma\" anlamına gelir. 11 ayetten oluşur."
+    },
+    {
+      "id": 63,
+      "name": "Münafikun",
+      "arabicName": "المنافقون",
+      "englishName": "Al-Munafiqun",
+      "verseCount": 11,
+      "revelationPlace": "medine",
+      "revelationOrder": 104,
+      "description": "Altmış üçüncü sure olan Münafikun, \"Münafıklar\" anlamına gelir. 11 ayetten oluşur."
+    },
+    {
+      "id": 64,
+      "name": "Tegabun",
+      "arabicName": "التغابن",
+      "englishName": "At-Taghabun",
+      "verseCount": 18,
+      "revelationPlace": "medine",
+      "revelationOrder": 108,
+      "description": "Altmış dördüncü sure olan Tegabun, \"Kayıp\" anlamına gelir. 18 ayetten oluşur."
+    },
+    {
+      "id": 65,
+      "name": "Talak",
+      "arabicName": "الطلاق",
+      "englishName": "At-Talaq",
+      "verseCount": 12,
+      "revelationPlace": "medine",
+      "revelationOrder": 99,
+      "description": "Altmış beşinci sure olan Talak, \"Boşanma\" anlamına gelir. 12 ayetten oluşur."
+    },
+    {
+      "id": 66,
+      "name": "Tahrim",
+      "arabicName": "التحريم",
+      "englishName": "At-Tahrim",
+      "verseCount": 12,
+      "revelationPlace": "medine",
+      "revelationOrder": 107,
+      "description": "Altmış altıncı sure olan Tahrim, \"Yasaklama\" anlamına gelir. 12 ayetten oluşur."
+    },
+    {
+      "id": 67,
+      "name": "Mülk",
+      "arabicName": "الملك",
+      "englishName": "Al-Mulk",
+      "verseCount": 30,
+      "revelationPlace": "mekke",
+      "revelationOrder": 77,
+      "description": "Altmış yedinci sure olan Mülk, \"Egemenlik\" anlamına gelir. 30 ayetten oluşur."
+    },
+    {
+      "id": 68,
+      "name": "Kalem",
+      "arabicName": "القلم",
+      "englishName": "Al-Qalam",
+      "verseCount": 52,
+      "revelationPlace": "mekke",
+      "revelationOrder": 2,
+      "description": "Altmış sekizinci sure olan Kalem, \"Kalem\" anlamına gelir. 52 ayetten oluşur."
+    },
+    {
+      "id": 69,
+      "name": "Haka",
+      "arabicName": "الحق",
+      "englishName": "Al-Haqqah",
+      "verseCount": 52,
+      "revelationPlace": "mekke",
+      "revelationOrder": 78,
+      "description": "Altmış dokuzuncu sure olan Haka, \"Hakikat\" anlamına gelir. 52 ayetten oluşur."
+    },
+    {
+      "id": 70,
+      "name": "Ma'aric",
+      "arabicName": "المعارج",
+      "englishName": "Al-Ma'arij",
+      "verseCount": 44,
+      "revelationPlace": "mekke",
+      "revelationOrder": 79,
+      "description": "Altmış onuncu sure olan Ma'aric, \"Geçmiş topluluklar\" anlamına gelir. 44 ayetten oluşur."
+    },
+    {
+      "id": 71,
+      "name": "Nuh",
+      "arabicName": "نوح",
+      "englishName": "Nuh",
+      "verseCount": 28,
+      "revelationPlace": "mekke",
+      "revelationOrder": 71,
+      "description": "Altmış on birinci sure olan Nuh, Hz. Nuh peygamberin adını taşır. 28 ayetten oluşur."
+    },
+    {
+      "id": 72,
+      "name": "Cin",
+      "arabicName": "الجن",
+      "englishName": "Al-Jinn",
+      "verseCount": 28,
+      "revelationPlace": "mekke",
+      "revelationOrder": 72,
+      "description": "Altmış on ikinci sure olan Cin, \"Cinler\" anlamına gelir. 28 ayetten oluşur."
+    },
+    {
+      "id": 73,
+      "name": "Müzzemmil",
+      "arabicName": "المزمل",
+      "englishName": "Al-Muzzammil",
+      "verseCount": 20,
+      "revelationPlace": "mekke",
+      "revelationOrder": 3,
+      "description": "Altmış on üçüncü sure olan Müzzemmil, \"Örtün\" anlamına gelir. 20 ayetten oluşur."
+    },
+    {
+      "id": 74,
+      "name": "Müddessir",
+      "arabicName": "المدثر",
+      "englishName": "Al-Muddaththir",
+      "verseCount": 56,
+      "revelationPlace": "mekke",
+      "revelationOrder": 4,
+      "description": "Altmış on dördüncü sure olan Müddessir, \"Örtün\" anlamına gelir. 56 ayetten oluşur."
+    },
+    {
+      "id": 75,
+      "name": "Kıyame",
+      "arabicName": "القيامة",
+      "englishName": "Al-Qiyamah",
+      "verseCount": 40,
+      "revelationPlace": "mekke",
+      "revelationOrder": 31,
+      "description": "Altmış beşinci sure olan Kıyame, \"Kıyamet\" anlamına gelir. 40 ayetten oluşur."
+    },
+    {
+      "id": 76,
+      "name": "İnsan",
+      "arabicName": "الإنسان",
+      "englishName": "Al-Insan",
+      "verseCount": 31,
+      "revelationPlace": "medine",
+      "revelationOrder": 98,
+      "description": "Altmış altıncı sure olan İnsan, \"İnsan\" anlamına gelir. 31 ayetten oluşur."
+    },
+    {
+      "id": 77,
+      "name": "Mürselat",
+      "arabicName": "المرسلات",
+      "englishName": "Al-Mursalat",
+      "verseCount": 50,
+      "revelationPlace": "mekke",
+      "revelationOrder": 35,
+      "description": "Altmış yetmiş yedinci sure olan Mürselat, \"Gönderilenler\" anlamına gelir. 50 ayetten oluşur."
+    },
+    {
+      "id": 78,
+      "name": "Nebe",
+      "arabicName": "النبأ",
+      "englishName": "An-Naba'",
+      "verseCount": 40,
+      "revelationPlace": "mekke",
+      "revelationOrder": 40,
+      "description": "Altmış yetmiş birinci sure olan Nebe, \"Büyük haber\" anlamına gelir. 40 ayetten oluşur."
+    },
+    {
+      "id": 79,
+      "name": "Naziat",
+      "arabicName": "النازعات",
+      "englishName": "An-Nazi'at",
+      "verseCount": 46,
+      "revelationPlace": "mekke",
+      "revelationOrder": 30,
+      "description": "Altmış yetmiş ikinci sure olan Naziat, \"Soyanlar\" anlamına gelir. 46 ayetten oluşur."
+    },
+    {
+      "id": 80,
+      "name": "Abese",
+      "arabicName": "عبس",
+      "englishName": "Abasa",
+      "verseCount": 42,
+      "revelationPlace": "mekke",
+      "revelationOrder": 24,
+      "description": "Altmış yetmiş üçüncü sure olan Abese, \"Çatık yüz\" anlamına gelir. 42 ayetten oluşur."
+    },
+    {
+      "id": 81,
+      "name": "Tekvir",
+      "arabicName": "التكوير",
+      "englishName": "At-Takwir",
+      "verseCount": 29,
+      "revelationPlace": "mekke",
+      "revelationOrder": 7,
+      "description": "Altmış dördüncü sure olan Tekvir, \"Büküm\" anlamına gelir. 29 ayetten oluşur."
+    },
+    {
+      "id": 82,
+      "name": "İnfitar",
+      "arabicName": "الانفطار",
+      "englishName": "Al-Infitar",
+      "verseCount": 19,
+      "revelationPlace": "mekke",
+      "revelationOrder": 82,
+      "description": "Altmış beşinci sure olan İnfitar, \"Ayrılma\" anlamına gelir. 19 ayetten oluşur."
+    },
+    {
+      "id": 83,
+      "name": "Mutaffifin",
+      "arabicName": "المطففون",
+      "englishName": "Al-Mutaffifin",
+      "verseCount": 36,
+      "revelationPlace": "mekke",
+      "revelationOrder": 36,
+      "description": "Altmış altıncı sure olan Mutaffifin, \"Örtbasanlar\" anlamına gelir. 36 ayetten oluşur."
+    },
+    {
+      "id": 84,
+      "name": "İnşikak",
+      "arabicName": "الانشقاق",
+      "englishName": "Al-Inshiqaq",
+      "verseCount": 25,
+      "revelationPlace": "mekke",
+      "revelationOrder": 19,
+      "description": "Altmış yedinci sure olan İnşikak, \"Yarılanma\" anlamına gelir. 25 ayetten oluşur."
+    },
+    {
+      "id": 85,
+      "name": "Buruc",
+      "arabicName": "البروج",
+      "englishName": "Al-Buruj",
+      "verseCount": 22,
+      "revelationPlace": "mekke",
+      "revelationOrder": 27,
+      "description": "Altmış sekizinci sure olan Buruc, \"Burçlar\" anlamına gelir. 22 ayetten oluşur."
+    },
+    {
+      "id": 86,
+      "name": "Tarık",
+      "arabicName": "الطارق",
+      "englishName": "At-Tariq",
+      "verseCount": 17,
+      "revelationPlace": "mekke",
+      "revelationOrder": 45,
+      "description": "Altmış dokuzuncu sure olan Tarık, \"Gece yıldızı\" anlamına gelir. 17 ayetten oluşur."
+    },
+    {
+      "id": 87,
+      "name": "A'la",
+      "arabicName": "الأعلى",
+      "englishName": "Al-A'la",
+      "verseCount": 19,
+      "revelationPlace": "mekke",
+      "revelationOrder": 22,
+      "description": "Altmış on birinci sure olan A'la, \"En Yüksek\" anlamına gelir. 19 ayetten oluşur."
+    },
+    {
+      "id": 88,
+      "name": "Gasiye",
+      "arabicName": "الغاشية",
+      "englishName": "Al-Ghashiyah",
+      "verseCount": 26,
+      "revelationPlace": "mekke",
+      "revelationOrder": 18,
+      "description": "Altmış on ikinci sure olan Gasiye, \"Saran\" anlamına gelir. 26 ayetten oluşur."
+    },
+    {
+      "id": 89,
+      "name": "Fecr",
+      "arabicName": "الفجر",
+      "englishName": "Al-Fajr",
+      "verseCount": 30,
+      "revelationPlace": "mekke",
+      "revelationOrder": 10,
+      "description": "Altmış dokuzuncu sure olan Fecr, \"Şafak\" anlamına gelir. 30 ayetten oluşur."
+    },
+    {
+      "id": 90,
+      "name": "Beled",
+      "arabicName": "البلد",
+      "englishName": "Al-Balad",
+      "verseCount": 20,
+      "revelationPlace": "mekke",
+      "revelationOrder": 33,
+      "description": "Altmış onuncu sure olan Beled, \"Şehir\" anlamına gelir. 20 ayetten oluşur."
+    },
+    {
+      "id": 91,
+      "name": "Şems",
+      "arabicName": "الشمس",
+      "englishName": "Ash-Shams",
+      "verseCount": 15,
+      "revelationPlace": "mekke",
+      "revelationOrder": 26,
+      "description": "Altmış on birinci sure olan Şems, \"Güneş\" anlamına gelir. 15 ayetten oluşur."
+    },
+    {
+      "id": 92,
+      "name": "Leyle",
+      "arabicName": "اليل",
+      "englishName": "Al-Layl",
+      "verseCount": 21,
+      "revelationPlace": "mekke",
+      "revelationOrder": 5,
+      "description": "Altmış on ikinci sure olan Leyle, \"Gece\" anlamına gelir. 21 ayetten oluşur."
+    },
+    {
+      "id": 93,
+      "name": "Duha",
+      "arabicName": "الضحى",
+      "englishName": "Ad-Duha",
+      "verseCount": 11,
+      "revelationPlace": "mekke",
+      "revelationOrder": 11,
+      "description": "Altmış on üçüncü sure olan Duha, \"Aydınlık\" anlamına gelir. 11 ayetten oluşur."
+    },
+    {
+      "id": 94,
+      "name": "İnşirah",
+      "arabicName": "الشرح",
+      "englishName": "Al-Inshirah",
+      "verseCount": 8,
+      "revelationPlace": "mekke",
+      "revelationOrder": 25,
+      "description": "Altmış dördüncü sure olan İnşirah, \"Açıklama\" anlamına gelir. 8 ayetten oluşur."
+    },
+    {
+      "id": 95,
+      "name": "Tin",
+      "arabicName": "التين",
+      "englishName": "At-Tin",
+      "verseCount": 8,
+      "revelationPlace": "mekke",
+      "revelationOrder": 28,
+      "description": "Altmış beşinci sure olan Tin, \"İncir\" anlamına gelir. 8 ayetten oluşur."
+    },
+    {
+      "id": 96,
+      "name": "Alak",
+      "arabicName": "العلق",
+      "englishName": "Al-Alaq",
+      "verseCount": 19,
+      "revelationPlace": "mekke",
+      "revelationOrder": 1,
+      "description": "Altmış altmış birinci sure olan Alak, \"Sıranma\" anlamına gelir. 19 ayetten oluşur."
+    },
+    {
+      "id": 97,
+      "name": "Kadir",
+      "arabicName": "القدر",
+      "englishName": "Al-Qadr",
+      "verseCount": 5,
+      "revelationPlace": "mekke",
+      "revelationOrder": 25,
+      "description": "Altmış yetmiş yedinci sure olan Kadir, \"Kadir\" anlamına gelir. 5 ayetten oluşur."
+    },
+    {
+      "id": 98,
+      "name": "Beyyine",
+      "arabicName": "البينة",
+      "englishName": "Al-Bayyinah",
+      "verseCount": 8,
+      "revelationPlace": "medine",
+      "revelationOrder": 107,
+      "description": "Altmış yetmiş sekizinci sure olan Beyyine, \"Açık delil\" anlamına gelir. 8 ayetten oluşur."
+    },
+    {
+      "id": 99,
+      "name": "Zilzal",
+      "arabicName": "الزلزلة",
+      "englishName": "Az-Zalzalah",
+      "verseCount": 8,
+      "revelationPlace": "mekke",
+      "revelationOrder": 14,
+      "description": "Altmış dokuzuncu sure olan Zilzal, \"Sarsıntı\" anlamına gelir. 8 ayetten oluşur."
+    },
+    {
+      "id": 100,
+      "name": "Karia",
+      "arabicName": "العاديات",
+      "englishName": "Al-Adiyat",
+      "verseCount": 11,
+      "revelationPlace": "mekke",
+      "revelationOrder": 100,
+      "description": "Yüzüncü sure olan Karia, \"Geçmiş topluluklar\" anlamına gelir. 11 ayetten oluşur."
+    },
+    {
+      "id": 101,
+      "name": "Tekasür",
+      "arabicName": "التكاثر",
+      "englishName": "At-Takathur",
+      "verseCount": 11,
+      "revelationPlace": "mekke",
+      "revelationOrder": 6,
+      "description": "Yüz birinci sure olan Tekasür, \"Saymak\" anlamına gelir. 11 ayetten oluşur."
+    },
+    {
+      "id": 102,
+      "name": "Kuras",
+      "arabicName": "القارعة",
+      "englishName": "Al-Qari'ah",
+      "verseCount": 8,
+      "revelationPlace": "mekke",
+      "revelationOrder": 16,
+      "description": "Yüz ikinci sure olan Kuras, \"Sarsan\" anlamına gelir. 8 ayetten oluşur."
+    },
+    {
+      "id": 103,
+      "name": "Asr",
+      "arabicName": "العصر",
+      "englishName": "Al-Asr",
+      "verseCount": 3,
+      "revelationPlace": "mekke",
+      "revelationOrder": 17,
+      "description": "Yüz üçüncü sure olan Asr, \"Öğleden sonra\" anlamına gelir. 3 ayetten oluşur."
+    },
+    {
+      "id": 104,
+      "name": "Hümeze",
+      "arabicName": "المؤمنون",
+      "englishName": "Al-Mu'minun",
+      "verseCount": 9,
+      "revelationPlace": "mekke",
+      "revelationOrder": 32,
+      "description": "Yüz dördüncü sure olan Hümeze, \"Dilenci\" anlamına gelir. 9 ayetten oluşur."
+    },
+    {
+      "id": 105,
+      "name": "Fil",
+      "arabicName": "الفيل",
+      "englishName": "Al-Fil",
+      "verseCount": 5,
+      "revelationPlace": "mekke",
+      "revelationOrder": 19,
+      "description": "Yüz beşinci sure olan Fil, \"Fil\" anlamına gelir. 5 ayetten oluşur."
+    },
+    {
+      "id": 106,
+      "name": "Kureyş",
+      "arabicName": "قريش",
+      "englishName": "Quraysh",
+      "verseCount": 4,
+      "revelationPlace": "mekke",
+      "revelationOrder": 29,
+      "description": "Yüz altıncı sure olan Kureyş, \"Kureyşliler\" anlamına gelir. 4 ayetten oluşur."
+    },
+    {
+      "id": 107,
+      "name": "Maun",
+      "arabicName": "الماعون",
+      "englishName": "Al-Ma'un",
+      "verseCount": 7,
+      "revelationPlace": "mekke",
+      "revelationOrder": 12,
+      "description": "Yüz yedinci sure olan Maun, \"Lanetlenen\" anlamına gelir. 7 ayetten oluşur."
+    },
+    {
+      "id": 108,
+      "name": "Nesr",
+      "arabicName": "النصر",
+      "englishName": "An-Nasr",
+      "verseCount": 3,
+      "revelationPlace": "medine",
+      "revelationOrder": 114,
+      "description": "Yüz sekizinci sure olan Nesr, \"Yardım\" anlamına gelir. 3 ayetten oluşur."
+    },
+    {
+      "id": 109,
+      "name": "Leheb",
+      "arabicName": "المسد",
+      "englishName": "Al-Masad",
+      "verseCount": 5,
+      "revelationPlace": "mekke",
+      "revelationOrder": 21,
+      "description": "Yüz dokuzuncu sure olan Leheb, \"Palm ipliği\" anlamına gelir. 5 ayetten oluşur."
+    },
+    {
+      "id": 110,
+      "name": "İhlas",
+      "arabicName": "الإخلاص",
+      "englishName": "Al-Ikhlas",
+      "verseCount": 4,
+      "revelationPlace": "mekke",
+      "revelationOrder": 22,
+      "description": "Yüz onuncu sure olan İhlas, \"Saflık\" anlamına gelir. 4 ayetten oluşur."
+    },
+    {
+      "id": 111,
+      "name": "Felak",
+      "arabicName": "المسد",
+      "englishName": "Al-Masad",
+      "verseCount": 5,
+      "revelationPlace": "mekke",
+      "revelationOrder": 27,
+      "description": "Yüz on birinci sure olan Felak, \"Palm ipliği\" anlamına gelir. 5 ayetten oluşur."
+    },
+    {
+      "id": 112,
+      "name": "İhlas",
+      "arabicName": "الإخلاص",
+      "englishName": "Al-Ikhlas",
+      "verseCount": 4,
+      "revelationPlace": "mekke",
+      "revelationOrder": 27,
+      "description": "Yüz on ikinci sure olan İhlas, \"Saflık\" anlamına gelir. 4 ayetten oluşur."
+    },
+    {
+      "id": 113,
+      "name": "Felak",
+      "arabicName": "الفلق",
+      "englishName": "Al-Falaq",
+      "verseCount": 5,
+      "revelationPlace": "mekke",
+      "revelationOrder": 15,
+      "description": "Yüz on üçüncü sure olan Felak, \"Palm ipliği\" anlamına gelir. 5 ayetten oluşur."
+    },
+    {
+      "id": 114,
+      "name": "Nas",
+      "arabicName": "الناس",
+      "englishName": "An-Nas",
+      "verseCount": 6,
+      "revelationPlace": "mekke",
+      "revelationOrder": 27,
+      "description": "Yüz on dördüncü sure olan Nas, \"İnsanlar\" anlamına gelir. 6 ayetten oluşur ve Kur'an-ı Kerim'in son suresidir."
+    }
+  ]
+}
