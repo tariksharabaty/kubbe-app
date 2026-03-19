@@ -1,0 +1,30 @@
+{
+  "surahs": [
+    {
+      "id": 1,
+      "name": "Fatiha",
+      "verses": [
+        "Bismillahirrahmanirrahîm.",
+        "Elhamdü lillahi rabbil'alemin.",
+        "Errahmanirrahîm.",
+        "Maliki yevmid-dîn.",
+        "İyyake na'büdü ve iyyake neste'în.",
+        "İhdinas-sirâtal-müstakîm.",
+        "Sirâtallezine en'amte aleyhim ğayrilmağdûbi aleyhim ve leddâllîn."
+      ],
+      "city": "Mekke"
+    },
+    {
+      "id": 2,
+      "name": "Bakara",
+      "verses": [
+        "Elif, lâm, mîm.",
+        "Zâlike kitâbu lâ raybe fîh, hüden lil-müttekîn.",
+        "Ellezîne yü'minûne bil-ğaybi ve yûkîmûne-s-salâte ve mimmâ rizaknâhüm yünfikûn.",
+        "Vellezîne yü'minûne bimâ unzile ileyke ve mâ unzile min kablik ve bil-âhırati hüm yûkınûn.",
+        "Ulâike alâ hüden min rabbihim ve ulâike hümü'l-müflihûn."
+      ],
+      "city": "Medine"
+    }
+  ]
+}
