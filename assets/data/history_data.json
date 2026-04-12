@@ -1,0 +1,121 @@
+{
+  "items": [
+    {
+      "id": "fatih",
+      "category": "Kişi",
+      "name": "Fatih Sultan Mehmed",
+      "title": "Ebül-Feth • Kayser-i Rum",
+      "shortDescription": "İstanbul'un Fatihi, Rönesans'ın Asil Kapısı",
+      "detailedContent": "Sadece bir fetih değil, aynı zamanda 6 dil bilen, matematik, astronomi ve mühendislik dehası olan bir Rönesans sultanıdır. Henüz 21 yaşındayken, imkansız denileni başararak gemileri karadan yürütmüştür.\n\nFatih, fetihten sonra şehri bir ilim ve kültür başkenti yapmak için Ali Kuşçu gibi çağın en büyük astronomlarını İstanbul'a bizzat davet etmiştir. Kurduğu Sahn-ı Seman Medreseleri, dönemin üniversiteleri olarak yüzlerce alim yetiştirmiştir.\n\nSavaş meydanlarındaki keskin dehası kadar, şairliğiyle de bilinen sultan, edebiyat ve estetiği bir devlet nişanı gibi üzerinde taşımıştır. Gentile Bellini'yi İstanbul'a çağırıp portresini yaptırması, sanata olan evrensel bakışının en belirgin kanıtıdır.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Gentile_Bellini_003.jpg/800px-Gentile_Bellini_003.jpg",
+      "quote": "Ya ben İstanbul'u alırım ya İstanbul beni.",
+      "extraQuotes": [
+        "İmkanın sınırını görmek için imkansızı denemek lazım."
+      ],
+      "tombLocationUrl": "https://www.google.com/maps/search/?api=1&query=Fatih+Sultan+Mehmed+Türbesi",
+      "galleryUrls": [],
+      "works": [
+        "Sahn-ı Seman Medreseleri",
+        "Topkapı Sarayı",
+        "Ayasofya Camii"
+      ],
+      "isFeatured": true
+    },
+    {
+      "id": "abdulhamid",
+      "category": "Kişi",
+      "name": "II. Abdülhamid Han",
+      "title": "Ulu Hakan • Halife-i Müslimin",
+      "shortDescription": "Cihan Şümul Siyasetin ve Vefanın Sultanı",
+      "detailedContent": "Osmanlı İmparatorluğu'nun en çalkantılı döneminde, devleti 33 yıl boyunca büyük bir siyasi zeka ve diplomatik manevralarla ayakta tutan sarsılmaz liderdir.\n\nAbdülhamid Han'ın sadece bir bürokrat değil, aslen bir eğitim ve irfan aşığı olduğu, Anadolu'nun dört bir yanına açtırdığı idadiler ile ispatlanmıştır.\n\nKendisi boş vakitlerinde sarayın marangozhanesinde mükemmel eserler veren büyük bir ağaç ustası, devrin teknolojisini yakından takip eden vizyoner bir yenilikçidir.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Abdul_Hamid_II.jpg/800px-Abdul_Hamid_II.jpg",
+      "quote": "Bizi hileleriyle yıkmaya çalışanlar bilsin ki, bizim hamimiz Allah'tır.",
+      "extraQuotes": [
+        "Hak arayan varsa hakkını verin, baş kaldıran varsa başını kesin."
+      ],
+      "tombLocationUrl": "https://www.google.com/maps/search/?api=1&query=Sultan+II.+Abdülhamid+Han+Türbesi",
+      "galleryUrls": [],
+      "works": [
+        "Hicaz Demiryolu",
+        "Darülaceze",
+        "Yıldız Fotoğraf Arşivi"
+      ],
+      "isFeatured": true
+    },
+    {
+      "id": "mimar_sinan",
+      "category": "Kişi",
+      "name": "Mimar Sinan",
+      "title": "Koca Sinan • Reis-i Mimaran",
+      "shortDescription": "Taşı Aşka Dönüştüren Mimari Deha",
+      "detailedContent": "Yarım asırlık başmimarlığı döneminde 300'den fazla eser inşa etmiş, Osmanlı'nın estetik silüetini, asırlara meydan okuyan matematiğiyle çizmiştir.\n\n'Çıraklık eserim' dediği Şehzade, 'kalfalık' dediği Süleymaniye ve 'ustalık' dediği Edirne Selimiye, taşın sükunetini göğe çıkaran muazzam şaheserlerdir.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Sinan_portrait.jpg/800px-Sinan_portrait.jpg",
+      "quote": "Ben yapıyı Allah'a emanet ettim.",
+      "extraQuotes": [
+        "Dünya, iyi bir mimarın elinde sadece taş değil, anlam kazanır."
+      ],
+      "tombLocationUrl": "https://www.google.com/maps/search/?api=1&query=Mimar+Sinan+Türbesi",
+      "galleryUrls": [],
+      "works": [
+        "Şehzade Camii",
+        "Süleymaniye Camii",
+        "Selimiye Camii"
+      ],
+      "isFeatured": true
+    },
+    {
+      "id": "mescidi_aksa",
+      "category": "Mekan",
+      "name": "Mescid-i Aksa",
+      "title": "İlk Kıble • Harem-i Şerif",
+      "shortDescription": "Yeryüzünde İnşa Edilen İkinci Mescid",
+      "detailedContent": "Kudüs'te yer alan ve Müslümanların ilk kıblesi olan Mescid-i Aksa, Kur'an-ı Kerim'de çevresi mübarek kılınan mekan olarak zikredilir. Hz. Muhammed'in (s.a.v) İsra ve Miraç mucizesine ev sahipliği yapmıştır.\n\nKubbetü's-Sahra, Kıble Mescidi ve sayısız medreseden oluşan devasa bir külliyedir.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Al-Aqsa_Mosque_-_Jerusalem.jpg/800px-Al-Aqsa_Mosque_-_Jerusalem.jpg",
+      "quote": "Mescid-i Aksa'ya gidin ve içinde namaz kılın...",
+      "extraQuotes": [],
+      "tombLocationUrl": "https://www.google.com/maps/search/?api=1&query=Al-Aqsa+Mosque+Jerusalem",
+      "galleryUrls": [],
+      "works": [
+        "Kubbetü's-Sahra",
+        "Kıble Mescidi"
+      ],
+      "isFeatured": true
+    },
+    {
+      "id": "ayasofya",
+      "category": "Mekan",
+      "name": "Ayasofya-i Kebir Camii",
+      "title": "Fetih Nişanı • Ulu Mabed",
+      "shortDescription": "Cumhuriyet Tarihinin Manevi Kalbi",
+      "detailedContent": "İstanbul'un fethinin en büyük sembolü olan Ayasofya, Fatih Sultan Mehmed tarafından camiye çevrilmiş ve asırlarca İslam dünyasının göz bebeği olmuştur.\n\nMimarisi, mozaikleri ve hat yazılarıyla dünya sanat tarihinin en önemli yapılarından biridir.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hagia_Sophia_Mars_2013.jpg/800px-Hagia_Sophia_Mars_2013.jpg",
+      "quote": "Fethin sembolü, ümmetin emaneti.",
+      "extraQuotes": [],
+      "tombLocationUrl": "https://www.google.com/maps/search/?api=1&query=Ayasofya+Camii+İstanbul",
+      "galleryUrls": [],
+      "works": [
+        "Fetih Hutbesi",
+        "Muvakkithane"
+      ],
+      "isFeatured": true
+    },
+    {
+      "id": "endulus_emevi",
+      "category": "Medeniyet",
+      "name": "Endülüs Emevi Devleti",
+      "title": "Avrupa'nın İslami Güneşi",
+      "shortDescription": "Orta Çağ'ı Aydınlatan Medeniyet Işığı",
+      "detailedContent": "İber Yarımadası'nda yaklaşık 8 asır hüküm sürmüş; bilim, felsefe, mimari ve tolerans açısından dünyanın en yüksek seviyesine ulaşmış muazzam bir devlettir. Kurtuba Kütüphanesi 400.000 cilt kitaba sahipken, dönemin Avrupa kralları sadece birkaç düzine kitaba sahipti.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Great_Mosque_of_C%C3%B3rdoba_-_The_Mihrab%2C_Spain.jpg/800px-Great_Mosque_of_C%C3%B3rdoba_-_The_Mihrab%2C_Spain.jpg",
+      "quote": "Kitapların aklı kılıçların gücünden daha keskindir.",
+      "extraQuotes": [],
+      "tombLocationUrl": "https://www.google.com/maps/search/?api=1&query=Mosque+of+Cordoba",
+      "galleryUrls": [],
+      "works": [
+        "Kurtuba Camii",
+        "Medinetü'z-Zehra Sarayı"
+      ],
+      "isFeatured": true
+    }
+  ]
+}
