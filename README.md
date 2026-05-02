@@ -1,64 +1,94 @@
-# Kubbe - İslami Yaşam Tarzı Uygulaması
-# Kubbe - Islamic Lifestyle Application
+🕌 Kubbe - Premium İslami Yaşam ve İbadet Rehberi
 
-Google Material 3 ve Samsung One UI tasarım dillerinin birleşimini kullanan modern bir İslami yaşam tarzı uygulaması.
+![Version](https://img.shields.io/badge/version-1.1.1-blue.svg)
+![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter)
+![Platform](https://img.shields.io/badge/platform-iOS%20%7C%20Android-lightgrey)
 
-A modern Islamic lifestyle application that combines Google Material 3 and Samsung One UI design languages.
+**Kubbe**, ibadetlerinize odaklanabilmeniz için karmaşadan uzak, reklamsız, minimalist ve premium bir deneyim sunmayı hedefleyen kapsamlı bir İslami yaşam uygulamasıdır. Kullanıcı deneyimini (UX) ve gizliliği ön planda tutan Kubbe, arka planda gereksiz veri tüketmez ve kullanıcıyı yormaz.
 
-## Özellikler - Features
+---
 
-- **Modern Tasarım** - Material 3 ve One UI estetiği
-- **5 Ana Sekme** - Home, Quran, Kumo (AI), Qibla, Tools
-- **Tema Desteği** - Açık ve koyu tema desteği
-- **Özel Fontlar** - Outfit, Poppins, Inter
-- **Temiz Mimari** - Feature-first yapı
+## ✨ Temel Özellikler
 
-## Proje Yapısı - Project Structure
+### 📍 Namaz Vakitleri & Konum
+- Diyanet ve uluslararası hesaplama yöntemleriyle yüksek hassasiyetli namaz vakitleri.
+- Otomatik konum algılama ve internetsiz durumlarda güvenli (fail-safe) gösterim.
+- Vakit çıkmasına/girmesine kalan süreyi gösteren dinamik geri sayım arayüzü.
 
-```
+### 📖 Kuran-ı Kerim
+- Medine Mushafı ve Osmanlı hat sanatı seçenekleriyle pürüzsüz okuma deneyimi.
+- Çoklu dil destekli Kuran meali (Türkçe, İngilizce, Arapça, Fransızca, Rusça vb.).
+- Ayet ayet tefsir ve detaylı sure bilgileri.
+
+### 🧭 Akıllı Kıble Pusulası
+- Cihaz sensörlerini ve GPS verilerini kullanarak %100 hassasiyetle Kıble yönü tespiti.
+- Manyetik alan bozulmalarına karşı kullanıcıyı uyaran akıllı sensör mimarisi.
+
+### 📿 Zikirmatik & Esma-ül Hüsna
+- Özelleştirilebilir temalara sahip, haptik geri bildirimli modern Zikirmatik.
+- Esma-ül Hüsna (Allah'ın 99 ismi), anlamları ve faziletleri.
+
+### 🛠️ Kapsamlı İslami Araçlar
+- **Zekatmatik:** Güncel kur bilgileri ile hassas zekat hesaplama.
+- **Kaza Namazı Takibi:** Kılınmayan namazların kaydını tutma ve ilerleme grafiği.
+- **Cuma Hutbeleri:** Güncel hutbeleri okuma ve dinleme imkanı.
+- **Dini Günler & Takvim:** Hicri takvim entegrasyonu ve yaklaşan kandil/bayram uyarıları.
+- **Yakındaki Camiler:** Harita üzerinden bulunulan konuma en yakın camileri listeleme.
+
+### 🎨 Kubbe Atölyesi (Yaratıcı Modül)
+- İslami mesajlar, ayetler ve duaları özel arka planlar ve hat sanatlarıyla birleştirip sosyal medyada paylaşılmaya hazır görsel kartlar oluşturma aracı.
+
+---
+
+## 🏗️ Mimari Yapı & Kullanılan Teknolojiler
+
+Proje, sürdürülebilirliği ve test edilebilirliği artırmak amacıyla **Feature-First (Özellik Odaklı)** klasörleme mimarisi ile inşa edilmiştir. Her modül kendi içinde bağımsız bir yapıya sahiptir.
+
+**Tech Stack:**
+- **Framework:** Flutter (Dart)
+- **State Management:** Provider (Yüksek performanslı ve reaktif durum yönetimi)
+- **Localization:** easy_localization (Dinamik dil değişimi)
+- **Storage:** shared_preferences & sqflite (Lokal veritabanı ve önbellekleme)
+- **Location Services:** geolocator (Konum ve koordinat işlemleri)
+- **Monetization/IAP:** RevenueCat (Güvenli uygulama içi satın alma altyapısı)
+
+**Klasör Yapısı:**
+```text
 lib/
-├── core/                    # Temel yapılandırma - Core configuration
-│   ├── theme/              # Tema ve renkler - Theme and colors
-│   └── navigation/         # Gezinme sistemi - Navigation system
-├── features/               # Özellik bazlı modüller - Feature-based modules
-│   ├── home/              # Ana sayfa - Home screen
-│   ├── quran/             # Kuran - Quran
-│   ├── kumo/              # Yapay zeka asistanı - AI assistant
-│   ├── qibla/             # Kıble yönü - Qibla direction
-│   └── tools/             # Araçlar - Tools
-└── shared/                # Paylaşılan bileşenler - Shared components
-    └── widgets/           # Özel widget'lar - Custom widgets
-```
+ ├── core/          # Ortak widgetlar, temalar, servisler ve state'ler
+ ├── data/          # Lokal veritabanı (Dualar, Tarih, İlmihal)
+ ├── features/      # Uygulamanın ana modülleri
+ │    ├── atelier/      # Kubbe Atölyesi
+ │    ├── home/         # Ana Ekran ve Vakitler
+ │    ├── quran/        # Kuran-ı Kerim Okuyucu
+ │    ├── qibla/        # Pusula
+ │    ├── tools/        # Zekatmatik, Kaza Namazı, Esma-ül Hüsna vb.
+ │    └── settings/     # Ayarlar ve Tema Yönetimi
+ └── main.dart      # Uygulama başlangıç noktası
+🚀 Kurulum (Getting Started)
+Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleyin:
 
-## Kurulum - Setup
+Repoyu Klonlayın:
 
-1. Gerekli paketleri kur - Install required packages:
-   ```bash
-   flutter pub get
-   ```
+Bash
+git clone [https://github.com/your-username/kubbe_app.git](https://github.com/your-username/kubbe_app.git)
+Bağımlılıkları Yükleyin:
 
-2. Uygulamayı çalıştır - Run the application:
-   ```bash
-   flutter run
-   ```
+Bash
+cd kubbe_app
+flutter pub get
+Çeviri Dosyalarını (Localization) Oluşturun (Gerekliyse):
 
-## Kullanılan Teknolojiler - Technologies Used
+Bash
+flutter pub run easy_localization:generate -S assets/translations
+Uygulamayı Başlatın:
 
-- **Flutter** - UI framework
-- **Go Router** - Navigasyon - Navigation
-- **Google Fonts** - Font yönetimi - Font management
-- **Provider** - State management
-- **Flutter SVG** - SVG ikonlar - SVG icons
+Bash
+flutter run
+🛡️ Gizlilik ve Veri Güvenliği
+Kubbe, kullanıcı verilerini satmaz ve analiz şirketleriyle paylaşmaz. Konum verileri yalnızca namaz vakitlerinin hesaplanması ve Kıble yönünün bulunması için anlık olarak kullanılır ve hiçbir sunucuda saklanmaz. Uygulama tamamen reklamsızdır (Google AdMob vb. SDK'lar kullanılmaz).
 
-## Tasarım Kuralları - Design Rules
+🤝 Katkıda Bulunma
+Bu proje kapalı kaynak (proprietary) bir girişimdir. Ancak geliştirme ekibindeyseniz, lütfen branch oluştururken standart feature/ozellik-adi isimlendirme kuralına uyun ve merge request açmadan önce kodunuzu flutter analyze ile test edin.
 
-- **Ana Renk** - Primary Color: #4B0082 (Mor - Purple)
-- **Fontlar** - Fonts: Outfit (başlıklar), Poppins (sayılar), Inter (metinler)
-- **Köşeler** - Corners: Hafif yuvarlatılmış (One UI tarzı)
-- **Gölgeler** - Shadows: Belgin ama göz yormayan
-
-## Geliştirme - Development
-
-Proje evrensel İngilizce isimlendirme standartlarına uygun olarak geliştirilmiştir. Tüm yorum satırları Türkçe ve İngilizce olarak yazılmıştır.
-
-The project is developed according to universal English naming standards. All comment lines are written in both Turkish and English.
+Geliştirici: [Sygrad] | İletişim: [sygradinfo@gmail.com]
