@@ -1,6 +1,6 @@
 🕌 Kubbe - Premium İslami Yaşam ve İbadet Rehberi
 
-![Version](https://img.shields.io/badge/version-1.1.2-blue.svg)
+![Version](https://img.shields.io/badge/version-1.2.1-blue.svg)
 ![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter)
 ![Platform](https://img.shields.io/badge/platform-iOS%20%7C%20Android-lightgrey)
 
